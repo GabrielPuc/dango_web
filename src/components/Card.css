@@ -1,0 +1,19 @@
+.card-container {
+    width: 15rem;
+    border-radius: 1rem;
+    box-shadow: 0px 2px 6px #999;
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+    background-color: white;
+    height: fit-content;
+  }
+  
+  
+  .card-symbol{
+    margin: 0.5rem 5%;
+  }
+  
+  .card-meaning {
+    margin: 0.5rem 5%;
+  }

@@ -1,0 +1,14 @@
+:root {
+  --primary: #457B9D;
+  --secondary: #4CAF50;
+  --complementary: #9d457b;
+  --background:#E2E2E2;
+  --home:#535b74;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}

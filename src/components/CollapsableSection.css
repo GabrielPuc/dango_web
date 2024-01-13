@@ -1,0 +1,34 @@
+.section {
+    
+    margin: 1rem auto;
+  }
+  
+  .section-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+    background-color: var(--secondary);
+    color: #ffffff;
+    font-size: large;
+  }
+  
+  .section-title:hover {
+    background-color: var(--complementary);
+  }
+  
+  .section-title,
+  .section-content {
+    padding: 1rem;
+  }
+  
+  .section-content {
+    background-color: var(--background);
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr));
+    gap: 1rem;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+  }
