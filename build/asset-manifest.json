@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dango_web/static/css/main.79b04ceb.css",
+    "main.js": "/dango_web/static/js/main.4c3ace73.js",
+    "index.html": "/dango_web/index.html",
+    "main.79b04ceb.css.map": "/dango_web/static/css/main.79b04ceb.css.map",
+    "main.4c3ace73.js.map": "/dango_web/static/js/main.4c3ace73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b04ceb.css",
+    "static/js/main.4c3ace73.js"
+  ]
+}
